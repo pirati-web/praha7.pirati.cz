@@ -37,7 +37,7 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/PiratiP7
+  profilePage: https://www.facebook.com/PiratiPraha7/
 
 twitter:
   loadSDK: true
