@@ -1,0 +1,66 @@
+-
+  id: 1
+  title: OTEVŘENÁ RADNICE - TRANSPARENTNOST
+  desc: Jsme přesvědčeni, že právě transparentnost dokáže minimalizovat nebezpečí korupce a soustřeďování moci v úzké skupině vyvolených.
+  garant: pavel.nazarsky
+  redmine: 29087
+-
+  id: 2
+  title: OTEVŘENÁ RADNICE - PARTICIPACE - spoluúčast občanů na rozhodování
+  desc: Spoluúčast na rozhodování v důsledku znamená i spoluúčast na užívání obecního majetku. Čím smysluplněji bude s majetkem a prostředky obce nakládáno, tím větší díl připadne na užívání občany.
+  garant: pavel.nazarsky
+  redmine: 29089
+-
+  id: 3
+  title: OTEVŘENÁ RADNICE - SERVIS OBČANŮM - pomocná ruka
+  desc: 
+  garant: jitka.nazarska
+  redmine: 29091
+-
+  id: 4
+  title: BEZPEČNOST a POŘÁDEK  
+  desc: Praha je sice jednou z nejbezpečnějších metropolí, ale z pohledu obyvatele se jako každá metropole potýká s drobnou kriminalitou a rušením klidu a pořádku. V centru města oboje souvisí s turismem. Turisté jsou jednak sami terčem krádeží a podvodů, na druhé straně jsou to však zejména oni, kdo svým bezohledným chováním obtěžují místní občany a ruší noční klid. Zábavní podniky, pouliční atrakce, ale i provoz mnohých restaurací a barů celkový nepořádek a hluk ještě zvyšují. V poslední době přibyl problém nejzávažnější - rušení nočního klidu v domech, kde jsou byty pronajímány turistům.
+  garant: pavel.nazarsky
+  redmine: 29093
+-
+  id: 5
+  title: CESTOVNÍ RUCH
+  desc: Turismus nesmí narušovat sousedský život v centru města, aby zde občané mohli normálně žít a pracovat. Neúnosný hluk a nepořádek v ulicích a v domech s nelegálními apartmány způsobil postupný odliv rezidentů z centra Prahy. Ti, kteří zde chtějí nadále bydlet, se musí účinně bránit bezohlednosti podnikatelů v turistickém ruchu. Nelegální a podvodné podnikání nebudeme trpět. Turistické služby musí dodržovat daná pravidla.
+  garant: pavel.nazarsky
+  redmine: 29095
+-
+  id: 6
+  title: KULTURA VEŘEJNÉHO PROSTORU
+  desc: Prostředí kultivuje. Architektura spočívá v civilizovaném naplňování potřeb činorodého ruchu města i potřeby zeleně, klidu, stínu a estetické kvality.  
+  garant: tomas.vich
+  redmine: 29097
+-
+  id: 7
+  title: ZDRAVOTNÍ A SOCIÁLNÍ PÉČE
+  desc: Je pro nás důležité, aby lidé žijící na Praze 1 měli dostupnou zdravotní a sociální péči, aby zde fungovala sociální soudržnost a realizovaly se nové projekty. V realizaci projektů budeme vycházet hlavně z potřeb občanů. Jednáme se zástupci MHMP o zapojení Nemocnice Na Františku do systému metropolitní zdravotní péče. Trváme na takovém řešení, které zaručí, aby nemocnice sloužila minimálně ve stejném rozsahu jako dosud občanům Prahy 1 a přitom získala potenciál rychleji se rozvíjet v rámci metropolitního zdravotního systému a aby nebylo možné ani v budoucnu vyvést nemocnici z majetku města. Prosazujeme řešení, které zachová nemovitý majetek ve správě MČ Praha 1, což umožní lépe chránit zájmy Prahy 1 při územním rozvoji v bezprostředním okolí nemocnice a zároveň je vlastnictví budovy pojistkou proti omezování základních zdravotních služeb nemocnice pro občany Prahy 1 i ostatní Pražany. Podpořili jsme zřízení zdravotní komise, která na Praze 1 dříve nepracovala, a finanční podporu projektů podporujících aktivní zdravotní politiku pro občany z rozpočtu Prahy 1.
+  garant: jitka.nazarska
+  redmine: 29375
+-
+  id: 8
+  title: ŠKOLSTVÍ, SPORT A VOLNÝ ČAS
+  desc: 
+  garant: pavel.nazarsky
+  redmine: 29391
+-
+  id: 9
+  title: ÚZEMNÍ PLÁNOVÁNÍ
+  desc: Praha 1 čelí jako jediná městská část vylidňování. Je plná hotelů nebo prázdných investičních bytů tvořících temné ulice. Růst cen nájemního i vlastnického bydlení je nejvyšší z Prahy a celé České republiky. To vše je důsledkem nezvládnutého politického a administrativního řízení bytové politiky ze strany státu, magistrátu i městské části. Je důsledkem krátkodobých pronájmů a spekulací s nemovitostmi. Ve volebním období 2018 - 2022 chceme učinit kroky potřebné pro zastavení tohoto negativního trendu, kdy peníze sice přicházejí, ale místní obyvatelé odcházejí.
+  garant: pavel.nazarsky
+  redmine: 29409
+-
+  id: 10
+  title: ŽIVOTNÍ PROSTŘEDÍ
+  desc: Zdravé životní prostředí je základem pro to, aby se nám dobře žilo. Budeme bojovat proti přehřívání města, znečišťování ovzduší a rušivým vlivům, které člověka nenechají v klidu spát.
+  garant: jitka.nazarska
+  redmine: 29423
+-
+  id: 10
+  title: BYTOVÉ A NEBYTOVÉ PROSTORY, MAJETEK
+  desc: V živém městě bydlí všechny věkové kategorie. Nechceme a nesmíme se zbavit odpovědnosti za něj. Chceme Prahu 1, která se stará o všechny, nejen o ty, kteří jsou na vrcholu sil a finančně dobře zajištění. Budeme řešit existenční problémy ve vztahu k nájemnému. Ne vždy jsou finance pro Prahu 1 tím nejdůležitějším aspektem. Život Praze 1 dávají zejména lidé a nejvíce ti, kteří zde trvale žijí. Zastavíme odliv občanů a změníme kurz počtu obyvatel Prahy 1 směrem nahoru.
+  garant: david.bodecek
+  redmine: 29485
