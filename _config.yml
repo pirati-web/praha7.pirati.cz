@@ -13,14 +13,16 @@ description: "Česká pirátská strana - místní sdružení Praha 7"
 keywords: "piráti, praha 7, česká pirátská strana, svoboda, demokracie, piráti na sedmičce"
 
 organization:
-  name: "Piráti Praha 7"
-  email: praha7@pirati.cz
+  name: Praha 7 - Piráti
+  shortName: Praha 7
+  email: pavel.tauer@pirati.cz
+  phone: +420 770 113 642
   address: |
-      Na Moráni 3
-      120 00 Praha 2
-  mapLink: https://mapy.cz/s/norubuzado
-  redmineLink: https://redmine.pirati.cz/projects/praha-7
+    Na Moráni 3,
+    120 00 Praha 2
   residenceImg:
+  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
+  redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   donateLink: https://dary.pirati.cz/podpor-kraj/praha/
