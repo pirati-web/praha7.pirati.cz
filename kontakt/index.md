@@ -5,8 +5,8 @@ description: Pirátská strana v Praze 7 je otevřená a ráda přivítá nové 
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - olga.sklenarova
-  - david.bodecek
+  - pavel.tauer
+  - roman.kucera
 ---
  <h1>Přidejte se k nám</h1>
 
